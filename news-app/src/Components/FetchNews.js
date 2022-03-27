@@ -16,15 +16,7 @@ function FetchNews() {
   };
   return (
     <>
-//       <div className="container my-3">
-//         <div className="row">
-//           <div className="col-4">
-//             <button className="btn btn-primary" onClick={fetchNews}>
-//               FetchNews
-//             </button>
-//           </div>
-//         </div>
-//       </div>
+
 
       <div className="container">
         <div className="row">
