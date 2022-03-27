@@ -28,7 +28,7 @@ function FetchNews() {
 
       <div className="container">
         <div className="row">
-          {news.map((value) => {
+          {news && news.map((value) => {
             return (
               <div className="col-4" key = {index}>
                 <div className="card" style={{ width: "18rem" }}>
